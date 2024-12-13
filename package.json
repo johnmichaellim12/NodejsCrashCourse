@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-crash-2024",
+  "version": "1.0.0",
+  "description": "Node.js crash course code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmichaellim12/NodejsCrashCourse.git"
+  },
+  "author": "John Michael Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnmichaellim12/NodejsCrashCourse/issues"
+  },
+  "homepage": "https://github.com/johnmichaellim12/NodejsCrashCourse#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
