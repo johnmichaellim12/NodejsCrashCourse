@@ -1,0 +1,1 @@
+This repository showcases a server-side JavaScript project developed during my company internship program, applying knowledge gained from previous courses. The project aims to enhance my skills as a future web developer by creating and deploying a functional server. It also covers foundational concepts in JavaScript.
